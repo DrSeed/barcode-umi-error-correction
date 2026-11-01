@@ -1,0 +1,13 @@
+metric,value,unit
+reads: corrected,4.62,% of reads
+reads: exact,95.28,% of reads
+reads: no whitelist neighbour,0.1,% of reads
+corrected reads sent to a non-cell barcode,0.0,reads
+"Hamming-1 lookup of 200 barcodes in the whitelist, half-split index",0.0008,seconds
+"Hamming-1 lookup of 200 barcodes in the whitelist, brute force",0.74,seconds
+UMI method unique: median relative error,0.0,%
+"UMI method unique: relative error, top gene",5.5,%
+UMI method cluster: median relative error,0.0,%
+"UMI method cluster: relative error, top gene",-2.4,%
+UMI method directional: median relative error,0.0,%
+"UMI method directional: relative error, top gene",-1.5,%
